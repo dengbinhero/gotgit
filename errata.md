@@ -16,7 +16,7 @@ javascripts: [ "/javascripts/jquery.js", "html/inc/click_more.js" ]
 
     * 在 GitHub 上从本版本库 <https://github.com/gotgit/gotgit/> 派生后，直接修改勘误表文件 ``errata.md`` 。
     * 您的修改可以通过 Github 的 Pull Request 工具通知我。
-    * 还可以直接通过 [新浪微博](http://weibo.com/gotgit/) @群英汇蒋鑫。
+    * 还可以直接使用 [新浪微博](http://weibo.com/gotgit/) @群英汇蒋鑫。
 
 ## 第一版• 第三印
 
