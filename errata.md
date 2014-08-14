@@ -9,6 +9,7 @@ javascripts: [ "/javascripts/jquery.js", "html/inc/click_more.js" ]
 
 1. 记录您发现的问题。
 
+
    访问 [缺陷追踪系统（Github）](https://github.com/gotgit/gotgit/issues/new) 报告问题。
 
 2. 修改本Git版本库中的勘误表。
